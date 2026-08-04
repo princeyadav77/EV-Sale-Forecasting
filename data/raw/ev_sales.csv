@@ -1,0 +1,289 @@
+Year,Month,State,Vehicle_Category,EV_Sales
+2021,January,Maharashtra,Electric 2W,4200
+2021,January,Maharashtra,Electric 3W,1800
+2021,January,Maharashtra,Electric 4W,850
+2021,January,Delhi,Electric 2W,2300
+2021,January,Delhi,Electric 3W,2100
+2021,January,Delhi,Electric 4W,700
+2021,January,Karnataka,Electric 2W,3100
+2021,January,Karnataka,Electric 3W,1200
+2021,January,Karnataka,Electric 4W,640
+2021,January,Uttar Pradesh,Electric 2W,2700
+2021,January,Uttar Pradesh,Electric 3W,2500
+2021,January,Uttar Pradesh,Electric 4W,500
+2021,February,Maharashtra,Electric 2W,4450
+2021,February,Maharashtra,Electric 3W,1900
+2021,February,Maharashtra,Electric 4W,890
+2021,February,Delhi,Electric 2W,2450
+2021,February,Delhi,Electric 3W,2250
+2021,February,Delhi,Electric 4W,760
+2021,February,Karnataka,Electric 2W,3280
+2021,February,Karnataka,Electric 3W,1320
+2021,February,Karnataka,Electric 4W,690
+2021,February,Uttar Pradesh,Electric 2W,2850
+2021,February,Uttar Pradesh,Electric 3W,2630
+2021,February,Uttar Pradesh,Electric 4W,540
+2021,March,Maharashtra,Electric 2W,5100
+2021,March,Maharashtra,Electric 3W,2200
+2021,March,Maharashtra,Electric 4W,1010
+2021,March,Delhi,Electric 2W,2860
+2021,March,Delhi,Electric 3W,2490
+2021,March,Delhi,Electric 4W,840
+2021,March,Karnataka,Electric 2W,3740
+2021,March,Karnataka,Electric 3W,1500
+2021,March,Karnataka,Electric 4W,780
+2021,March,Uttar Pradesh,Electric 2W,3300
+2021,March,Uttar Pradesh,Electric 3W,2920
+2021,March,Uttar Pradesh,Electric 4W,610
+2021,April,Maharashtra,Electric 2W,4900
+2021,April,Maharashtra,Electric 3W,2080
+2021,April,Maharashtra,Electric 4W,960
+2021,April,Delhi,Electric 2W,2700
+2021,April,Delhi,Electric 3W,2400
+2021,April,Delhi,Electric 4W,810
+2021,April,Karnataka,Electric 2W,3600
+2021,April,Karnataka,Electric 3W,1450
+2021,April,Karnataka,Electric 4W,740
+2021,April,Uttar Pradesh,Electric 2W,3180
+2021,April,Uttar Pradesh,Electric 3W,2810
+2021,April,Uttar Pradesh,Electric 4W,590
+2021,May,Maharashtra,Electric 2W,5300
+2021,May,Maharashtra,Electric 3W,2300
+2021,May,Maharashtra,Electric 4W,1080
+2021,May,Delhi,Electric 2W,3020
+2021,May,Delhi,Electric 3W,2580
+2021,May,Delhi,Electric 4W,900
+2021,May,Karnataka,Electric 2W,3900
+2021,May,Karnataka,Electric 3W,1600
+2021,May,Karnataka,Electric 4W,830
+2021,May,Uttar Pradesh,Electric 2W,3450
+2021,May,Uttar Pradesh,Electric 3W,3050
+2021,May,Uttar Pradesh,Electric 4W,660
+2021,June,Maharashtra,Electric 2W,5700
+2021,June,Maharashtra,Electric 3W,2500
+2021,June,Maharashtra,Electric 4W,1150
+2021,June,Delhi,Electric 2W,3250
+2021,June,Delhi,Electric 3W,2790
+2021,June,Delhi,Electric 4W,980
+2021,June,Karnataka,Electric 2W,4200
+2021,June,Karnataka,Electric 3W,1750
+2021,June,Karnataka,Electric 4W,900
+2021,June,Uttar Pradesh,Electric 2W,3740
+2021,June,Uttar Pradesh,Electric 3W,3300
+2021,June,Uttar Pradesh,Electric 4W,720
+2021,July,Maharashtra,Electric 2W,6000
+2021,July,Maharashtra,Electric 3W,2650
+2021,July,Maharashtra,Electric 4W,1220
+2021,July,Delhi,Electric 2W,3400
+2021,July,Delhi,Electric 3W,2920
+2021,July,Delhi,Electric 4W,1040
+2021,July,Karnataka,Electric 2W,4450
+2021,July,Karnataka,Electric 3W,1880
+2021,July,Karnataka,Electric 4W,960
+2021,July,Uttar Pradesh,Electric 2W,3980
+2021,July,Uttar Pradesh,Electric 3W,3500
+2021,July,Uttar Pradesh,Electric 4W,790
+2021,August,Maharashtra,Electric 2W,6350
+2021,August,Maharashtra,Electric 3W,2820
+2021,August,Maharashtra,Electric 4W,1300
+2021,August,Delhi,Electric 2W,3620
+2021,August,Delhi,Electric 3W,3100
+2021,August,Delhi,Electric 4W,1100
+2021,August,Karnataka,Electric 2W,4720
+2021,August,Karnataka,Electric 3W,2020
+2021,August,Karnataka,Electric 4W,1030
+2021,August,Uttar Pradesh,Electric 2W,4220
+2021,August,Uttar Pradesh,Electric 3W,3710
+2021,August,Uttar Pradesh,Electric 4W,850
+2021,September,Maharashtra,Electric 2W,6800
+2021,September,Maharashtra,Electric 3W,3000
+2021,September,Maharashtra,Electric 4W,1380
+2021,September,Delhi,Electric 2W,3890
+2021,September,Delhi,Electric 3W,3300
+2021,September,Delhi,Electric 4W,1180
+2021,September,Karnataka,Electric 2W,5050
+2021,September,Karnataka,Electric 3W,2200
+2021,September,Karnataka,Electric 4W,1110
+2021,September,Uttar Pradesh,Electric 2W,4550
+2021,September,Uttar Pradesh,Electric 3W,3920
+2021,September,Uttar Pradesh,Electric 4W,930
+2021,October,Maharashtra,Electric 2W,7600
+2021,October,Maharashtra,Electric 3W,3350
+2021,October,Maharashtra,Electric 4W,1520
+2021,October,Delhi,Electric 2W,4350
+2021,October,Delhi,Electric 3W,3700
+2021,October,Delhi,Electric 4W,1320
+2021,October,Karnataka,Electric 2W,5650
+2021,October,Karnataka,Electric 3W,2500
+2021,October,Karnataka,Electric 4W,1240
+2021,October,Uttar Pradesh,Electric 2W,5120
+2021,October,Uttar Pradesh,Electric 3W,4400
+2021,October,Uttar Pradesh,Electric 4W,1060
+2021,November,Maharashtra,Electric 2W,8300
+2021,November,Maharashtra,Electric 3W,3600
+2021,November,Maharashtra,Electric 4W,1680
+2021,November,Delhi,Electric 2W,4720
+2021,November,Delhi,Electric 3W,3960
+2021,November,Delhi,Electric 4W,1450
+2021,November,Karnataka,Electric 2W,6200
+2021,November,Karnataka,Electric 3W,2750
+2021,November,Karnataka,Electric 4W,1380
+2021,November,Uttar Pradesh,Electric 2W,5600
+2021,November,Uttar Pradesh,Electric 3W,4750
+2021,November,Uttar Pradesh,Electric 4W,1180
+2021,December,Maharashtra,Electric 2W,8800
+2021,December,Maharashtra,Electric 3W,3820
+2021,December,Maharashtra,Electric 4W,1760
+2021,December,Delhi,Electric 2W,5000
+2021,December,Delhi,Electric 3W,4200
+2021,December,Delhi,Electric 4W,1520
+2021,December,Karnataka,Electric 2W,6600
+2021,December,Karnataka,Electric 3W,2920
+2021,December,Karnataka,Electric 4W,1460
+2021,December,Uttar Pradesh,Electric 2W,5950
+2021,December,Uttar Pradesh,Electric 3W,5050
+2021,December,Uttar Pradesh,Electric 4W,1260
+2022,January,Maharashtra,Electric 2W,7200
+2022,January,Maharashtra,Electric 3W,3250
+2022,January,Maharashtra,Electric 4W,1500
+2022,January,Delhi,Electric 2W,4200
+2022,January,Delhi,Electric 3W,3600
+2022,January,Delhi,Electric 4W,1300
+2022,January,Karnataka,Electric 2W,5550
+2022,January,Karnataka,Electric 3W,2480
+2022,January,Karnataka,Electric 4W,1230
+2022,January,Uttar Pradesh,Electric 2W,5050
+2022,January,Uttar Pradesh,Electric 3W,4400
+2022,January,Uttar Pradesh,Electric 4W,1060
+2022,February,Maharashtra,Electric 2W,7600
+2022,February,Maharashtra,Electric 3W,3420
+2022,February,Maharashtra,Electric 4W,1580
+2022,February,Delhi,Electric 2W,4450
+2022,February,Delhi,Electric 3W,3780
+2022,February,Delhi,Electric 4W,1380
+2022,February,Karnataka,Electric 2W,5850
+2022,February,Karnataka,Electric 3W,2630
+2022,February,Karnataka,Electric 4W,1300
+2022,February,Uttar Pradesh,Electric 2W,5350
+2022,February,Uttar Pradesh,Electric 3W,4620
+2022,February,Uttar Pradesh,Electric 4W,1140
+2022,March,Maharashtra,Electric 2W,8600
+2022,March,Maharashtra,Electric 3W,3900
+2022,March,Maharashtra,Electric 4W,1800
+2022,March,Delhi,Electric 2W,5050
+2022,March,Delhi,Electric 3W,4250
+2022,March,Delhi,Electric 4W,1580
+2022,March,Karnataka,Electric 2W,6650
+2022,March,Karnataka,Electric 3W,3050
+2022,March,Karnataka,Electric 4W,1500
+2022,March,Uttar Pradesh,Electric 2W,6100
+2022,March,Uttar Pradesh,Electric 3W,5200
+2022,March,Uttar Pradesh,Electric 4W,1320
+2022,April,Maharashtra,Electric 2W,8250
+2022,April,Maharashtra,Electric 3W,3720
+2022,April,Maharashtra,Electric 4W,1720
+2022,April,Delhi,Electric 2W,4820
+2022,April,Delhi,Electric 3W,4080
+2022,April,Delhi,Electric 4W,1510
+2022,April,Karnataka,Electric 2W,6400
+2022,April,Karnataka,Electric 3W,2900
+2022,April,Karnataka,Electric 4W,1430
+2022,April,Uttar Pradesh,Electric 2W,5850
+2022,April,Uttar Pradesh,Electric 3W,5000
+2022,April,Uttar Pradesh,Electric 4W,1260
+2022,May,Maharashtra,Electric 2W,9000
+2022,May,Maharashtra,Electric 3W,4100
+2022,May,Maharashtra,Electric 4W,1920
+2022,May,Delhi,Electric 2W,5300
+2022,May,Delhi,Electric 3W,4450
+2022,May,Delhi,Electric 4W,1680
+2022,May,Karnataka,Electric 2W,7000
+2022,May,Karnataka,Electric 3W,3220
+2022,May,Karnataka,Electric 4W,1600
+2022,May,Uttar Pradesh,Electric 2W,6400
+2022,May,Uttar Pradesh,Electric 3W,5450
+2022,May,Uttar Pradesh,Electric 4W,1420
+2022,June,Maharashtra,Electric 2W,9700
+2022,June,Maharashtra,Electric 3W,4450
+2022,June,Maharashtra,Electric 4W,2060
+2022,June,Delhi,Electric 2W,5700
+2022,June,Delhi,Electric 3W,4820
+2022,June,Delhi,Electric 4W,1800
+2022,June,Karnataka,Electric 2W,7550
+2022,June,Karnataka,Electric 3W,3500
+2022,June,Karnataka,Electric 4W,1740
+2022,June,Uttar Pradesh,Electric 2W,6900
+2022,June,Uttar Pradesh,Electric 3W,5920
+2022,June,Uttar Pradesh,Electric 4W,1550
+2022,July,Maharashtra,Electric 2W,10300
+2022,July,Maharashtra,Electric 3W,4700
+2022,July,Maharashtra,Electric 4W,2200
+2022,July,Delhi,Electric 2W,6100
+2022,July,Delhi,Electric 3W,5100
+2022,July,Delhi,Electric 4W,1920
+2022,July,Karnataka,Electric 2W,8050
+2022,July,Karnataka,Electric 3W,3750
+2022,July,Karnataka,Electric 4W,1860
+2022,July,Uttar Pradesh,Electric 2W,7350
+2022,July,Uttar Pradesh,Electric 3W,6300
+2022,July,Uttar Pradesh,Electric 4W,1680
+2022,August,Maharashtra,Electric 2W,11000
+2022,August,Maharashtra,Electric 3W,5020
+2022,August,Maharashtra,Electric 4W,2380
+2022,August,Delhi,Electric 2W,6550
+2022,August,Delhi,Electric 3W,5450
+2022,August,Delhi,Electric 4W,2080
+2022,August,Karnataka,Electric 2W,8600
+2022,August,Karnataka,Electric 3W,4050
+2022,August,Karnataka,Electric 4W,2020
+2022,August,Uttar Pradesh,Electric 2W,7900
+2022,August,Uttar Pradesh,Electric 3W,6750
+2022,August,Uttar Pradesh,Electric 4W,1840
+2022,September,Maharashtra,Electric 2W,11800
+2022,September,Maharashtra,Electric 3W,5400
+2022,September,Maharashtra,Electric 4W,2550
+2022,September,Delhi,Electric 2W,7050
+2022,September,Delhi,Electric 3W,5850
+2022,September,Delhi,Electric 4W,2240
+2022,September,Karnataka,Electric 2W,9250
+2022,September,Karnataka,Electric 3W,4380
+2022,September,Karnataka,Electric 4W,2180
+2022,September,Uttar Pradesh,Electric 2W,8500
+2022,September,Uttar Pradesh,Electric 3W,7250
+2022,September,Uttar Pradesh,Electric 4W,2020
+2022,October,Maharashtra,Electric 2W,13200
+2022,October,Maharashtra,Electric 3W,6020
+2022,October,Maharashtra,Electric 4W,2840
+2022,October,Delhi,Electric 2W,7900
+2022,October,Delhi,Electric 3W,6500
+2022,October,Delhi,Electric 4W,2500
+2022,October,Karnataka,Electric 2W,10400
+2022,October,Karnataka,Electric 3W,4920
+2022,October,Karnataka,Electric 4W,2460
+2022,October,Uttar Pradesh,Electric 2W,9600
+2022,October,Uttar Pradesh,Electric 3W,8100
+2022,October,Uttar Pradesh,Electric 4W,2300
+2022,November,Maharashtra,Electric 2W,14200
+2022,November,Maharashtra,Electric 3W,6450
+2022,November,Maharashtra,Electric 4W,3080
+2022,November,Delhi,Electric 2W,8500
+2022,November,Delhi,Electric 3W,6950
+2022,November,Delhi,Electric 4W,2720
+2022,November,Karnataka,Electric 2W,11250
+2022,November,Karnataka,Electric 3W,5300
+2022,November,Karnataka,Electric 4W,2680
+2022,November,Uttar Pradesh,Electric 2W,10350
+2022,November,Uttar Pradesh,Electric 3W,8750
+2022,November,Uttar Pradesh,Electric 4W,2520
+2022,December,Maharashtra,Electric 2W,15000
+2022,December,Maharashtra,Electric 3W,6800
+2022,December,Maharashtra,Electric 4W,3250
+2022,December,Delhi,Electric 2W,9100
+2022,December,Delhi,Electric 3W,7350
+2022,December,Delhi,Electric 4W,2880
+2022,December,Karnataka,Electric 2W,12000
+2022,December,Karnataka,Electric 3W,5680
+2022,December,Karnataka,Electric 4W,2860
+2022,December,Uttar Pradesh,Electric 2W,11100
+2022,December,Uttar Pradesh,Electric 3W,9320
+2022,December,Uttar Pradesh,Electric 4W,2700
